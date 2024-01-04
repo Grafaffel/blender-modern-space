@@ -1,8 +1,8 @@
 # Modern Space
 A Space-Inspired Blender Theme for Blender 4.0.1
 
-![Screenshot of the Theme](space_modern.png "Screenshot of the Theme")
 ![Mockup of the Theme](mockup.png "Mockup of the Theme")
+![Screenshot of the Theme](space_modern.png "Screenshot of the Theme")
 
 ## How to Install
 
